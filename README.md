@@ -5,19 +5,19 @@ This project explores the intersection of intuition and probability by recreatin
 
 Files in This Repository
 
-1. 1_stat_tarot.ipynb - Main Jupyter notebook containing analysis and visualizations
+1. `stat_tarot.ipynb` - Main Jupyter notebook containing analysis and visualizations
 
-2. 2_tarot.csv - Tarot card dataset with traditional meanings and associations
+2. `tarot.csv` - Tarot card dataset with traditional meanings and associations
 
-3. 3_tarot.py - Core tarot card class and reading generation functions
+3. `tarot.py` - Core tarot card class and reading generation functions
 
-4. 4_simulation_summary.csv - Summary statistics from simulation runs
+4. `simulation_summary.csv` - Summary statistics from simulation runs
 
-5. 5_simulation.py - Simulation engine for generating multiple readings
+5. `simulation.py` - Simulation engine for generating multiple readings
 
-6. 6_visualizations.py - Plotting functions for data visualization
+6. `visualizations.py` - Plotting functions for data visualization
 
-7. 7_tables.py - Statistical tables and summary generation
+7. `tables.py` - Statistical tables and summary generation
 
 # Usage
 ```python
