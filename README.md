@@ -3,7 +3,7 @@
 
 This project explores the intersection of intuition and probability by recreating tarot readings through computational simulation. I designed a dataset, virtual tarot reader, and simulation that mimics authentic shuffling techniques, card selection, and interpretive practices. I then repeated this simulation 10,000 times and verified the randomness of its readings. I incorporated Claude (a Large Language Model) as the "reader" to explore how machine interpretation compares to traditional human understanding. Feel free to make contributions.
 
-Files in This Repository
+Files in This Repository (Must be renamed after downloading!)
 
 1. `stat_tarot.ipynb` - Main Jupyter notebook containing analysis and visualizations
 
